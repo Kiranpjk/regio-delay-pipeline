@@ -1,0 +1,754 @@
+{
+ "departures": [
+  {
+   "tripId": "1|900001|0|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": null,
+   "plannedWhen": "2026-11-20T06:05:00+01:00",
+   "delay": null,
+   "platform": "3",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   },
+   "cancelled": true
+  },
+  {
+   "tripId": "1|900001|1|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T06:21:25+01:00",
+   "plannedWhen": "2026-11-20T06:21:00+01:00",
+   "delay": 25,
+   "platform": "1",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|2|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": null,
+   "plannedWhen": "2026-11-20T06:44:00+01:00",
+   "delay": null,
+   "platform": "1",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   },
+   "cancelled": true
+  },
+  {
+   "tripId": "1|900001|3|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T07:01:06+01:00",
+   "plannedWhen": "2026-11-20T07:01:00+01:00",
+   "delay": 6,
+   "platform": "2",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|4|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T07:27:10+01:00",
+   "plannedWhen": "2026-11-20T07:25:00+01:00",
+   "delay": 130,
+   "platform": "4",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 42",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|5|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T07:44:01+01:00",
+   "plannedWhen": "2026-11-20T07:44:00+01:00",
+   "delay": 1,
+   "platform": "2",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|6|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T08:05:40+01:00",
+   "plannedWhen": "2026-11-20T08:05:00+01:00",
+   "delay": 40,
+   "platform": "3",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|7|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T08:21:46+01:00",
+   "plannedWhen": "2026-11-20T08:20:00+01:00",
+   "delay": 106,
+   "platform": "3",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|8|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T08:49:14+01:00",
+   "plannedWhen": "2026-11-20T08:44:00+01:00",
+   "delay": 314,
+   "platform": "1",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|9|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T09:10:04+01:00",
+   "plannedWhen": "2026-11-20T09:03:00+01:00",
+   "delay": 424,
+   "platform": "3",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|10|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T09:24:11+01:00",
+   "plannedWhen": "2026-11-20T09:24:00+01:00",
+   "delay": 11,
+   "platform": "2",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|11|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T09:50:03+01:00",
+   "plannedWhen": "2026-11-20T09:42:00+01:00",
+   "delay": 483,
+   "platform": "4",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|12|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T10:03:48+01:00",
+   "plannedWhen": "2026-11-20T10:02:00+01:00",
+   "delay": 108,
+   "platform": "3",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|13|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T10:26:50+01:00",
+   "plannedWhen": "2026-11-20T10:22:00+01:00",
+   "delay": 290,
+   "platform": "1",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|14|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T10:49:13+01:00",
+   "plannedWhen": "2026-11-20T10:44:00+01:00",
+   "delay": 313,
+   "platform": "2",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 42",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|15|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T11:13:22+01:00",
+   "plannedWhen": "2026-11-20T11:03:00+01:00",
+   "delay": 622,
+   "platform": "2",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|16|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T11:30:59+01:00",
+   "plannedWhen": "2026-11-20T11:25:00+01:00",
+   "delay": 359,
+   "platform": "2",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|17|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T11:40:16+01:00",
+   "plannedWhen": "2026-11-20T11:40:00+01:00",
+   "delay": 16,
+   "platform": "3",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|18|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T12:09:38+01:00",
+   "plannedWhen": "2026-11-20T12:01:00+01:00",
+   "delay": 518,
+   "platform": "4",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 42",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|19|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T12:26:27+01:00",
+   "plannedWhen": "2026-11-20T12:21:00+01:00",
+   "delay": 327,
+   "platform": "3",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|20|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T12:48:30+01:00",
+   "plannedWhen": "2026-11-20T12:45:00+01:00",
+   "delay": 210,
+   "platform": "3",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 42",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|21|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T13:01:22+01:00",
+   "plannedWhen": "2026-11-20T13:01:00+01:00",
+   "delay": 22,
+   "platform": "1",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|22|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T13:26:16+01:00",
+   "plannedWhen": "2026-11-20T13:20:00+01:00",
+   "delay": 376,
+   "platform": "4",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|23|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T13:47:37+01:00",
+   "plannedWhen": "2026-11-20T13:44:00+01:00",
+   "delay": 217,
+   "platform": "4",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|24|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T14:11:53+01:00",
+   "plannedWhen": "2026-11-20T14:04:00+01:00",
+   "delay": 473,
+   "platform": "1",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|25|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T14:33:38+01:00",
+   "plannedWhen": "2026-11-20T14:25:00+01:00",
+   "delay": 518,
+   "platform": "3",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 42",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|26|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T14:47:16+01:00",
+   "plannedWhen": "2026-11-20T14:45:00+01:00",
+   "delay": 136,
+   "platform": "4",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|27|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T15:01:13+01:00",
+   "plannedWhen": "2026-11-20T15:00:00+01:00",
+   "delay": 73,
+   "platform": "2",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 42",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|28|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T15:25:25+01:00",
+   "plannedWhen": "2026-11-20T15:24:00+01:00",
+   "delay": 85,
+   "platform": "2",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|29|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T15:44:06+01:00",
+   "plannedWhen": "2026-11-20T15:41:00+01:00",
+   "delay": 186,
+   "platform": "1",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|30|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T16:04:28+01:00",
+   "plannedWhen": "2026-11-20T16:04:00+01:00",
+   "delay": 28,
+   "platform": "3",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|31|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T16:30:24+01:00",
+   "plannedWhen": "2026-11-20T16:22:00+01:00",
+   "delay": 504,
+   "platform": "1",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|32|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T16:40:17+01:00",
+   "plannedWhen": "2026-11-20T16:40:00+01:00",
+   "delay": 17,
+   "platform": "2",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 42",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|33|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T17:04:11+01:00",
+   "plannedWhen": "2026-11-20T17:01:00+01:00",
+   "delay": 191,
+   "platform": "3",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 42",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|34|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T17:24:57+01:00",
+   "plannedWhen": "2026-11-20T17:24:00+01:00",
+   "delay": 57,
+   "platform": "2",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 42",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|35|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": "2026-11-20T17:49:27+01:00",
+   "plannedWhen": "2026-11-20T17:45:00+01:00",
+   "delay": 267,
+   "platform": "3",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RB 25",
+    "product": "regional",
+    "productName": "RB",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|900001|0|80|20112026",
+   "stop": {
+    "type": "stop",
+    "id": "900001",
+    "name": "Jena Paradies (demo)"
+   },
+   "when": null,
+   "plannedWhen": "2026-11-20T06:05:00+01:00",
+   "delay": null,
+   "platform": "3",
+   "direction": "Demo direction",
+   "line": {
+    "type": "line",
+    "name": "RE 15",
+    "product": "regional",
+    "productName": "RE",
+    "mode": "train"
+   },
+   "cancelled": true
+  },
+  {
+   "tripId": null,
+   "stop": {
+    "id": "900001"
+   },
+   "plannedWhen": null
+  }
+ ]
+}
